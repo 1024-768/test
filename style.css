@@ -1,0 +1,50 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#h1_1{
+    display: block;
+    text-align: center;
+    font-size: 1en;
+    font-family: Helvetica;
+}
+
+#subContainer{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+}
+
+#warn{
+    color: red;
+    text-align: center;
+}
+
+#H1{
+    text-align: center;
+    font-family: Verdana;
+}
+
+.buttons{
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(192, 104, 232);
+    color: white
+    
+}
+
+.buttons:hover{
+    background-color: rgb(147, 43, 195) 
+}
+
+.notif{
+    font-family: Helvetica;
+    font-size: small;
+}
+
+.input{
+    text-align: center;
+}
+
